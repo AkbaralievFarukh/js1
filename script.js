@@ -20,3 +20,4 @@ console.log(a + +b)
 let c = 2
 b = undefined
 console.log(c + b)
+
